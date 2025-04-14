@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Muhammad Waleed:
+# 💫 (Full Stack Developer)
 
 👨‍💻 Front End Develpor  | 💻 Software Engineering Student (5th Semester)<br><br>🔧 Experience: 1 year at Codes Thinker as a Front end Developer <br><br>🔧 Experience: 8 Months at Coding First as a MERN Stack  Developer<br><br>🚀Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning AWS<br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech    add a coding type image on the right of the about me 
 
