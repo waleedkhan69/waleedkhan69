@@ -4,7 +4,7 @@
 👨‍💻 Front End Develpor  | 💻 Software Engineering Student (5th Semester)<br><br>🔧 Experience: 1 year at Codes Thinker as a Front end Developer <br><br>🔧 Experience: 8 Months at Coding First as a MERN Stack  Developer<br><br>🚀Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning AWS<br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech    add a coding type image on the right of the about me 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089312365229) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/waleedrind34?utm_source=qr&igsh=cTkwcGFmcjJxajd5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed38/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089312365229) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/waleedrind34?utm_source=qr&igsh=cTkwcGFmcjJxajd5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-waleed-350018360/) 
 
 
 # 💻 Tech Stack:
